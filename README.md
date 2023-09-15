@@ -1,4 +1,4 @@
-[![MasterHead]([https://videohive.img.customer.envatousercontent.com/files/8e648ff9-8b27-4c44-8678-f0bf0c92e8d9/inline_image_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=b757931f276a8ba128fe70dc965b68d6](https://cutewallpaper.org/28/circuit-board-wallpaper-gif/gif-gifs-system-wallpaper-technology-wallpaper-phone-wallpaper-design.gif))
+[![MasterHead](https://cutewallpaper.org/28/circuit-board-wallpaper-gif/gif-gifs-system-wallpaper-technology-wallpaper-phone-wallpaper-design.gif)
 
 <h1 align="center">Heyya 👋, I'm Himagowri V</h1>
 <h3 align="center">🔌I'm passionate about Digital Electronics & VLSI 💡</h3>
