@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/7qb5.gif)
+[![MasterHead](https://media.istockphoto.com/id/668544908/video/abstract-circuit-board-background.jpg?s=640x640&k=20&c=6hmntr0wrjxhc5ZWcgvGcAOC3hF3tYvOZMN9OSE4PqM=)
 
 <h1 align="center">Heyya 👋, I'm Himagowri V</h1>
 <h3 align="center">🔌I'm passionate about Digital Electronics & VLSI 💡</h3>
