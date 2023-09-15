@@ -1,4 +1,4 @@
-[![MasterHead](https://cutewallpaper.org/28/circuit-board-wallpaper-gif/gif-gifs-system-wallpaper-technology-wallpaper-phone-wallpaper-design.gif)
+[![MasterHead](https://i.gifer.com/7qb5.gif)
 
 <h1 align="center">Heyya 👋, I'm Himagowri V</h1>
 <h3 align="center">🔌I'm passionate about Digital Electronics & VLSI 💡</h3>
