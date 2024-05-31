@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **🌟 On a 100-Day RTL Coding challenge Journey**
+- 🔭 I’m currently working on **🌟 On a 100-Day Embedded Coding challenge Journey**
 
-- 🌱 I’m currently learning **on improving RTL coding and System verilog fundamentals**
+- 🌱 I’m currently learning **on improving Embedded C programming**
 
-- 👯 I’m looking to collaborate on **projects in VLSI**
+- 👯 I’m looking to collaborate on **projects in Embedded systems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
